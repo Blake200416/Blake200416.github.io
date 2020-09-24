@@ -1,0 +1,16 @@
+body {
+font-family: system-ui;
+background:#a0c5ea;
+color: Black;
+text-align: center;
+
+ 
+ <!--Text shadow-->
+}
+h1 {
+ color: white;
+ border-style:solid;
+ border-color: black;
+ text-shadow: 2px 2px 4px #000000;
+}
+
